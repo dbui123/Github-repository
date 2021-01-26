@@ -1,3 +1,3 @@
-# Github-repository
+## Project introduction
 
-Test read me 123
+To limit the spread of Covid-19 the Australian government mandated strict border restrictions which effectively barred all non-citizens and non-residents from entry into the country from 20 March 2020. As a result, demand for good and services from industries reliant on a steady stream of international arrivals plummeted causing a deterioration in the Australian unemployment rate. As such, this project first seeks to provide an exploratory analysis of border restrictions and its implications across Australian industries. Second, using linear regression, model the Australian unemployment rate. Finally, predict and assess the impact of border restrictions on the unemployment rate over 2020 by simulating varying levels of international arrivals.
